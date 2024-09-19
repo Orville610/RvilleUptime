@@ -4,17 +4,19 @@
     "url": "https://neonddroid.com",
     "icon": "https://icons.duckduckgo.com/ip3/neonddroid.com.ico",
     "slug": "portofolio-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 701,
-    "timeDay": 250,
-    "timeWeek": 826,
-    "timeMonth": 701,
-    "timeYear": 701,
-    "dailyMinutesDown": {}
+    "time": 690,
+    "timeDay": 385,
+    "timeWeek": 788,
+    "timeMonth": 690,
+    "timeYear": 690,
+    "dailyMinutesDown": {
+      "2024-09-19": 0
+    }
   }
 ]
